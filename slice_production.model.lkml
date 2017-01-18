@@ -1,4 +1,4 @@
-connection: "redshift_truth"
+connection: "redshift_veritas"
 
 # include all the views
 include: "*.view"
