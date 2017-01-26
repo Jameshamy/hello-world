@@ -13,3 +13,7 @@ explore: added_product {}
 explore: aliases{}
 
 explore: experiment {}
+
+explore:  discount_offer {}
+
+explore:  email_delivered {}
